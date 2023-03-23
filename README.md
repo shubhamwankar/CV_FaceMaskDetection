@@ -1,4 +1,4 @@
-# 2023_ZAF003_FaceMaskDetection
+# Face Mask Detection
 ## Overview
 Face mask detection is an image processing and computer vision task that involves detecting whether a person in an image or video is wearing a face mask or not. With the ongoing COVID-19 pandemic, face masks have become a crucial tool in preventing the spread of the virus. Face mask detection systems can be used in public spaces such as airports, malls, and hospitals to ensure that individuals are following safety protocols.
 
